@@ -1,3 +1,7 @@
 import Cocoa
 
-var greeting = "Hello, playground"
+//MARK: Enum - Optional
+enum Cars {
+    case Tesla
+    case Toyota
+}
